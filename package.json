@@ -18,7 +18,8 @@
     "react-native-gesture-handler": "~2.9.0",
     "react-native-heroicons": "^3.2.0",
     "react-native-svg": "13.4.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "expo-updates": "~0.16.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

@@ -223,7 +223,7 @@ const styles = StyleSheet.create({
     shadowColor: "#171717",
     shadowOffset: { width: -3, height: 5 },
     shadowOpacity: 0.4,
-    shadowRadius: 10,
+    shadowRadius: 7,
   },
   btnContainer: {
     padding: 10,
